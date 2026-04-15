@@ -1,5 +1,5 @@
 {
-  "name": "marketing",
+  "name": "ward-off-evil-marketing",
   "private": true,
   "type": "module",
   "scripts": {
@@ -20,14 +20,10 @@
     "zod": "^4.3.6"
   },
   "devDependencies": {
-    "@netlify/vite-plugin-tanstack-start": "^1.2.14",
-    "@tailwindcss/vite": "^4.0.6",
     "@types/node": "^22.10.2",
     "@types/react": "^19.2.0",
     "@types/react-dom": "^19.2.0",
     "@vitejs/plugin-react": "^5.0.4",
-    "lucide-react": "^0.576.0",
-    "tailwindcss": "^4.0.6",
     "typescript": "^5.7.2",
     "rimraf": "^6.0.1",
     "vite": "^7.1.7"
